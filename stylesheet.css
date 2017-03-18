@@ -1,0 +1,43 @@
+.main{
+    background-color: #9504ea;
+    width: 400px;
+}
+.add-section{
+    padding: 20px 20px 10px;
+}
+span{
+    margin-right: 16px;
+    float: right;
+    cursor: pointer;
+}
+h3{
+    padding: 15px;
+    margin: 10px 0;
+    font-size: 35px;
+    font-family: "Segoe UI",Arial,sans-serif;
+    
+}
+ul{
+    list-style-type: none;
+    font-family: Verdana,sans-serif;
+    font-size: 15px;
+    line-height: 2.5;
+    padding-left: 0px
+}
+li{
+    display: list-item;
+    text-align: left;
+}
+ul li{
+    padding: 6px 2px 6px 16px;
+    border-bottom: 1px solid #ddd;
+    background-color: white;
+}
+button{
+    padding: 9px;
+    color: red;
+}
+input{
+    height: 29px;
+    width: 300px;
+}
